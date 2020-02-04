@@ -1,0 +1,998 @@
+00-i008.aud	gdi structure destroyed
+00-i012.aud	battle controll offline
+00-i014.aud	building infiltrated
+00-i016.aud	cannot deploy here
+00-i018.aud	construction complete
+00-i020.aud	incomming transmission
+00-i022.aud	insufficant funds
+00-i024.aud	low power
+00-i026.aud	mission accomplished
+00-i028.aud	mission failed
+00-i032.aud	new construction options
+00-i034.aud	primary building set
+00-i038.aud	reinforcements have arrived
+00-i040.aud	repairing
+00-i042.aud	select target
+00-i044.aud	silos needed
+00-i056.aud	building captured
+00-i058.aud	timer started
+00-i060.aud	timer stopped
+00-i062.aud	training
+00-i064.aud	unable to comply, building in progress
+00-i068.aud	unit armour upgraded
+00-i070.aud	unit firepower upgraded
+00-i074.aud	unit lost
+00-i076.aud	unit ready
+00-i078.aud	unit repaired
+00-i080.aud	unit speed upgraded
+00-i082.aud	base under attack
+00-i090.aud	harvester under attack
+00-i100.aud	primary objective achieved
+00-i102.aud	secondary objective achieved
+00-i104.aud	tertiary objective achieved
+00-i106.aud	quaternery objective achieved
+00-i118.aud	bridge repaired
+00-i122.aud	twenty minutes remaining
+00-i124.aud	ten minutes remaining
+00-i126.aud	five minutes remaining
+00-i128.aud	four minutes remaining
+00-i130.aud	three minutes remaining
+00-i132.aud	two minutes remaining
+00-i134.aud	one minute remaining
+00-i150.aud	missile launch detected
+00-i152.aud	chemical missile ready
+00-i154.aud	cluster missile ready
+00-i156.aud	ion cannon ready
+00-i158.aud	em pulse cannon ready
+00-i162.aud	fire storm defense ready
+00-i170.aud	fire storm defense offline
+00-i172.aud	cloaked unit detected
+00-i174.aud	subterrainian unit detected
+00-i176.aud	ion storm approaching
+00-i178.aud	metior storm approaching
+00-i180.aud	base defenses offline
+00-i194.aud	critical unit lost
+00-i196.aud	critical structure lost
+00-i198.aud	new terrain discovered
+00-i200.aud	establishing battlefield controll, stand by
+00-i208.aud	mutant supplies found
+00-i210.aud	commandos en route
+00-i216.aud	building
+00-i218.aud	on hold
+00-i220.aud	canceled
+00-i226.aud	unit sold
+00-i228.aud	structure sold
+00-i230.aud	building offline
+00-i232.aud	building online
+00-i252.aud	player has resigned
+00-i268.aud	player was defeated
+00-i284.aud	you are victorious
+00-i286.aud	you have lost
+00-i288.aud	you have resigned
+00-i290.aud	mutant commandos available
+00-i304.aud	alliance formed
+00-i306.aud	alliance broken
+00-i308.aud	our ally is under attack
+00-i310.aud	build more power plants to restore full power
+00-i312.aud	build barracks to train additional troops
+00-i314.aud	build hand of nod to train additional troops
+00-i316.aud	build a tiberium refinery to harvest tiberium
+00-i318.aud	build silos to store excess tiberium
+00-i344.aud	inferior tactics detected
+00-i346.aud	retreat is your only logical option
+00-i348.aud	surrender is your only logical option
+00-i352.aud	your defeat is at hand
+00-i356.aud	you have been marked for termination
+00-i360.aud	time to erase the human factor from this equasion
+00-i370.aud	your probobility of sucess is dropping
+00-i372.aud	surrender is preferable against the odds you are facing
+00-i374.aud	data recieved indicates that you are a threat
+00-i376.aud	defeat of enemy predicted
+00-i500.aud	objective complete
+00-i502.aud	final objective complete
+00-i504.aud	unable to comply, fist of nod deployed
+00-i506.aud	drop pods available
+00-n000.aud	build a refinery to harvest tiberium
+00-n002.aud	harvester will begin harvesting
+00-n004.aud	build a barracks
+00-n006.aud	destroy all nod forces in the area
+00-n018.aud	civillian killed
+00-n020.aud	nod sam sites destroyed
+00-n022.aud	gdi transports en route
+00-n024.aud	civillians evacuated, objective complete
+00-n032.aud	site secure, objective complete
+00-n034.aud	technology centre captured, objective complete
+00-n040.aud	base destroyed, objective complete
+00-n042.aud	it would be advantages to destroy bridges
+00-n044.aud	bridges destroyed, objective complete
+00-n052.aud	ufo under attack
+00-n054.aud	ufo destroyed, mission failed
+00-n055.aud	array destroyed, objective complete
+00-n056.aud	incomming transmission
+00-n058.aud	tratos evacuated, primary objective complete
+00-n059.aud	transport destroyed, mission failed
+00-n068.aud	ion storm approaching, eta 5 minutes
+00-n070.aud	ion storm abating
+00-n072.aud	air power innefective during ion storms
+00-n074.aud	dam destroyed, mission complete
+00-n075.aud	dam sighted, target confirmed
+00-n084.aud	enemy sam sites detected
+00-n086.aud	all sam sites must be destroyed before dropships can be deployed
+00-n088.aud	sam sites destroyed, dropships inbound
+00-n096.aud	command centre destroyed, mission complete
+00-n098.aud	warning, inbound tactical nuke detected
+00-n112.aud	perimeter deactivated
+00-n114.aud	reinforcements inbound
+00-n128.aud	bridge repaired
+00-n130.aud	train returning to nod base
+00-n132.aud	reinforcements en route
+00-n134.aud	capture nod tech center to recover the crystals
+00-n136.aud	train disabled, carryall inbound
+00-n138.aud	crystals destroyed, mission failed
+00-n140.aud	ion storm forming over this sector, pilot return to base
+00-n142.aud	pilot return to base
+00-n156.aud	force detected, enemy units en route
+00-n158.aud	mutants lost, mission failed
+00-n160.aud	airstrike ready
+00-n162.aud	transports inbound
+00-n166.aud	supply base destroyed, mission complete
+00-n168.aud	mutants en route to power grid
+00-n180.aud	c4 planted, mission complete
+00-n182.aud	ghost stalker terminated, mission failed
+00-n188.aud	missile complex destroyed, mission complete
+00-n190.aud	tiberium missile inbound
+00-n192.aud	ion storn will disable fighters
+00-n206.aud	mutants detected, enemy forces en route
+00-n208.aud	fighter production facillity located, dropships en route
+00-n210.aud	fighter production facillity destroyed, mission complete
+00-n236.aud	kodiak under attack
+00-n238.aud	storm abating, commence attack on nod forces
+00-n239.aud	kodiak in critical condition
+00-n240.aud	kodiak destroyed, mission failed
+00-n241.aud	eye of the storm has been entered, equpiment at maximum efficency
+00-n243.aud	tiberium life form detected
+00-n245.aud	re-entering ion storm, caution is advised
+00-n247.aud	clear the zone for mcv dropship deployment
+00-n248.aud	philladelphia in range, icbm launch detected, mission failed
+00-n249.aud	tiberium life form detected
+00-n250.aud	tiberium missile launched, mission failed
+00-n251.aud	icbms destroyed, philadelphia is out of danger
+00-n252.aud	nod has installed several icbms to take out the philladelphia
+00-n254.aud	to stop them, take out the other 3 launchers
+00-n255.aud	civillian city is under attack
+00-n400.aud	kodiak located
+00-n402.aud	tascitus aquired, proced to beacon for extraction
+00-n404.aud	tascitus lost
+00-n406.aud	tascitus found
+00-n408.aud	nod has captured the tascitus, recover it at all costs
+00-n410.aud	find & evacuate any civillians in the area
+00-n412.aud	maintain all factories untill reinforcements arrive
+00-n414.aud	escort the civillians to the orca transport for immediate airlift
+00-n416.aud	human leader neutralized
+00-n418.aud	mutant leader neutralized
+00-n420.aud	food centre under attack
+00-n422.aud	food centre destroyed
+00-n424.aud	water purifiers under attack
+00-n426.aud	water purifiers destroyed
+00-n428.aud	the riots were incited by 2 members of each side
+00-n430.aud	neutralize the leaders to end hostillities
+00-n432.aud	riot leader neutralized
+00-n434.aud	first riot leader neutralized
+00-n436.aud	second riot leader neutralized
+00-n438.aud	third riot leader neutralized
+00-n440.aud	forth riot leader neutralized
+00-n442.aud	all riot leaders have been neutralized
+00-n444.aud	enemy reinforcements have arrived
+00-n446.aud	destroy the two bridges in the area
+00-n448.aud	disable cabals defences
+00-n450.aud	use an engineer to capture cabals core
+00-n452.aud	outpost located
+00-n454.aud	destroy all cabal forces
+00-n456.aud	return to the outpost & evacuate doctor budro
+00-n458.aud	gdi base is located due east of your position
+00-n460.aud	procede with caution
+00-n462.aud	inform the villages
+00-n464.aud	village sucessfully warned
+00-n466.aud	all villages sucessfully warned
+00-n468.aud	we have lost contatc with the gdi base in this sector
+00-n470.aud	we have lost contact with the gdi base in this reigon
+00-n472.aud	gdi base in this sector under siege
+00-n474.aud	3 small civillian enclaves in this area must be warned
+00-n478.aud	two more outposts to warn
+00-n479.aud	one final village must be warned
+00-n480.aud	the city of trondheim must be warned
+00-n482.aud	destroy cabals base & forces
+00-n484.aud	infected cyborg introduced into factory
+00-n486.aud	deliver the infected cyborg into the communications network
+00-n488.aud	destroy the cyborg production plant
+00-n490.aud	deliver the infected cyborg into cabals base
+00-n492.aud	there is another communications array in cabals main base
+00-n494.aud	deliver a second cyborg to the new array
+00-n496.aud	multiple missile launches detected
+00-n498.aud	destroy cabals harvesters
+00-n500.aud	controll station captured
+00-n502.aud	there are 3 controll stations in this area
+00-n504.aud	capture these stations & retrieve the codes
+00-n506.aud	destroy the bridges
+00-n508.aud	locating the civillians might help in disabling the laser fencing
+00-n510.aud	proboble location within civillian outpost to the north
+01-i342.aud	inferior tactics detected
+01-i350.aud	observe superior tactics while you still have human eyes
+01-i352.aud	your defeat is at hand
+01-i356.aud	you have been marked for termination
+01-i360.aud	time to erase the human factor from this equasion
+01-i362.aud	prepair for decimation
+01-i364.aud	you make this easy, fleshbag
+01-i366.aud	we tire of your insignificant defience
+01-i368.aud	the sacrifice of the many is the pleasure of the few
+01-i378.aud	terminator protocols initiated
+01-n000.aud	harvest the tiberium to the north
+01-n002.aud	destroy hassans elite guard
+01-n004.aud	to get production on line, build a tiberium refinery
+01-n005.aud	base perimiter has been breached
+01-n006.aud	establishing battle controlls, stand by
+01-n007.aud	to build or train...
+01-n008.aud	battle controlls established
+01-n009.aud	tiberium is hazzardus to unprotected infantry
+01-n010.aud	power levels are low, construct more power plants
+01-n011.aud	to repair a structure...
+01-n020.aud	capture the tv station to the east
+01-n022.aud	to repair a bridge...
+01-n024.aud	destroy hassans remaining guard
+01-n026.aud	to capture a building...
+01-n027.aud	to deploy a vechile...
+01-n032.aud	move to an open area and build your base
+01-n034.aud	destroy hassans pyramid
+01-n036.aud	when hassan flees like a dog, capture him
+01-n038.aud	capturing the local radar towers
+01-n040.aud	mcv has arrived to the south east
+01-n054.aud	it seams that cretain structures attract lighting
+01-n055.aud	use them to your advantage
+01-n064.aud	gdi base operational
+01-n066.aud	tascitus has been aquired
+01-n068.aud	tiberium life form detected
+01-n070.aud	mutant vermin detected
+01-n072.aud	gdi dropship detected
+01-n074.aud	bullet train departing
+01-n076.aud	prevent that train from leaving
+01-n086.aud	protect your engineers
+01-n088.aud	congratulations on your sucess
+01-n090.aud	I will send an apc now to the gdi base
+01-n100.aud	your forces have been detected
+01-n102.aud	prevent gdis evacuation at all costs
+01-n114.aud	incoming transport detected
+01-n116.aud	mutant life form detected on board
+01-n128.aud	mutants located
+01-n130.aud	mcv en route
+01-n132.aud	research facillity located
+01-n134.aud	research facillity destroyed
+01-n136.aud	biotoxin convoy approaching
+01-n144.aud	biotoxin tankers located
+01-n156.aud	gdi bullet train arriving at outpost
+01-n158.aud	gdi bullet train arriving at prison
+01-n160.aud	transport has arrived
+01-n162.aud	transport lost
+01-n164.aud	transport has been detected
+01-n174.aud	the creature is the tiberium substance we seek, use it
+01-n176.aud	tiberium missile ready
+01-n178.aud	do not allow the construction yard to be destroyed
+01-n180.aud	you must build a tiberium waste facility
+01-n192.aud	convoy truck lost
+01-n194.aud	tiberium missile ready
+01-n196.aud	convoy inbound
+01-n208.aud	stealth is key
+01-n210.aud	spy lost, mission failed
+01-n212.aud	com centre infiltrated, location detected
+01-n227.aud	if he detects the trap, capture him before he can flee
+01-n228.aud	convoy sighted
+01-n229.aud	do not let mcneal escape
+01-n230.aud	mcneal killed, mission failed
+01-n231.aud	all toxin soldiers killed, mission failed
+01-n232.aud	mcneal captured, mission complete
+01-n233.aud	production facillity destroyed
+01-n234.aud	mcneal escaped, mission failed
+01-n256.aud	orbit 1 complete
+01-n258.aud	orbit 2 complete
+01-n260.aud	orbit 3 complete, mission failed
+01-n262.aud	perimiter deactivated, commence attack
+01-n264.aud	icbm launcher lost, mission failed
+01-n266.aud	icbm launcher under attack
+01-n268.aud	ion cannon firing, resending controll codes
+01-n270.aud	the ion cannon is ours
+01-n284.aud	spy killed, mission failed
+01-n286.aud	proceed to evac location, transport en route
+01-n320.aud	intruders detected
+01-n322.aud	proboble objective is rescue of mutant prisoners
+01-n324.aud	kill all prisoners
+01-n326.aud	all forces converge
+01-n328.aud	main power offline
+01-n330.aud	main power restored
+01-n400.aud	cabal online
+01-n402.aud	perhaps you should attempt to kill their leader
+01-n404.aud	ghost stalker killed
+01-n406.aud	juggernaut destroyed
+01-n408.aud	find the temple & recover the tascitus
+01-n410.aud	cyborg replication error, reset system
+01-n412.aud	system reset, normal parameters restored
+01-n414.aud	gdi patroll near
+01-n416.aud	tiberium life form detected
+01-n418.aud	gdi has detected you
+01-n420.aud	remain hidden from the gdi forces
+01-n422.aud	destroy all civillian structures without being detected
+01-n424.aud	eliminate all gdi & civillians
+01-n426.aud	use the toxin soldiers to capture civillians
+01-n428.aud	bait the tiberium life forms by using the drugged civillians
+01-n430.aud	lead the tiberium life forms to the gdi & civillian areas
+01-n432.aud	once the tiberium life form has devoured the civillians
+01-n434.aud	use this location as a staging point for your operation
+01-n436.aud	gdi cannot reach you here
+01-n438.aud	outpost located
+01-n440.aud	tascitus found
+01-n442.aud	the tascitus is safetly in our hands
+01-n444.aud	exterminate the mutant vermin
+01-n446.aud	locate the mutant outpost
+01-n448.aud	find the truck containing the tascitus & return it to the beacon
+01-n450.aud	emininate all mutant forces
+01-n452.aud	run humans
+01-n462.aud	activating defence protocol, firestorm, now
+01-n468.aud	you amuse me
+01-n470.aud	sam sites destroyed, air power incoming
+01-n472.aud	you have been detected, tratos is escaping by air transport
+01-n474.aud	you have failed, tratos has escaped
+01-n476.aud	the arrays have been destroyed, sensors are now down
+01-n478.aud	capturing 6 power plants will shut down the firestorm generator
+01-n900.aud	warning, regulators offline
+01-n901.aud	dam integrity failing
+09-i000.aud	yes
+09-i002.aud	ok
+09-i004.aud	ooh
+09-i006.aud	aah
+10-i000.aud	give me an order
+10-i002.aud	what do you want
+10-i004.aud	you talking to me
+10-i006.aud	what
+10-i016.aud	stay low
+10-i020.aud	ok
+10-i022.aud	already there
+10-i024.aud	right between the eyes
+10-i026.aud	i only need 1 shot
+10-i028.aud	this is too easy
+10-i030.aud	good as done
+10-n032.aud	the medical facillity is located to the east
+10-n034.aud	the medical facillity is located to the west
+10-n036.aud	we must get tratos out of that facillity
+10-n038.aud	so much for sutlty
+10-n040.aud	tratos, no
+10-n042.aud	we must get tratos to the transport
+10-n044.aud	our work here is done, were out of here
+10-n046.aud	they've seen us, fall back
+11-i000.aud	yes
+11-i002.aud	direct me
+11-i004.aud	awaiting orders
+11-i006.aud	i'm ready
+11-i008.aud	of course
+11-i010.aud	immediatly
+11-i012.aud	yes
+11-i014.aud	for kane
+11-i016.aud	they will pay for this
+11-i018.aud	for the brotherhood
+120mmf.aud	artillery sound
+120mmx9.aud	artillery sound two-shooter
+12-i000.aud	yes cabal
+12-i002.aud	where to
+12-i004.aud	yes
+12-i006.aud	yes
+12-i008.aud	for kane
+12-i010.aud	i will
+12-i012.aud	we must find oxanna
+12-i014.aud	leave no enemy standing
+12-i016.aud	kill them
+13-i000.aud	huh
+13-i002.aud	what
+13-i004.aud	ah
+13-i006.aud	lead me
+13-i008.aud	arrows from the sky
+13-i010.aud	green becomes brown
+13-i012.aud	tah
+13-i014.aud	yes
+13-i016.aud	be careful
+13-i018.aud	nod is everywhere
+13-i020.aud	where is the tascitus
+14-i000.aud	yes
+14-i002.aud	over here
+14-i004.aud	give me a target
+14-i008.aud	it will be done
+14-i010.aud	very well
+14-i012.aud	any time
+14-i014.aud	you got it
+14-i016.aud	there could be trouble
+15-i000.aud	infantry reporting
+15-i002.aud	unit ready
+15-i004.aud	awaiting order
+15-i006.aud	sir
+15-i008.aud	sir yes sir
+15-i010.aud	ready
+15-i012.aud	yes sir
+15-i014.aud	yes sir
+15-i016.aud	orders received
+15-i018.aud	moving out
+15-i020.aud	advancing
+15-i022.aud	on my way
+15-i024.aud	you got it
+15-i026.aud	no problem
+15-i032.aud	ready for action
+15-i038.aud	standing by
+15-i040.aud	yeah
+15-i042.aud	orders
+15-i044.aud	loud & clear
+15-i046.aud	i'm on it
+15-i048.aud	sir
+15-i050.aud	good as done
+15-i058.aud	i'm taking heavy fire
+15-i060.aud	move move move
+15-i064.aud	medic
+19-i000.aud	engineer
+19-i002.aud	yes sir
+19-i006.aud	awaiting orders
+19-i010.aud	affirmative
+19-i016.aud	no problem
+19-i018.aud	i can fix that
+19-n100.aud	looks like the kodiak is a loss
+19-n102.aud	ive got the eva unit, lets get out of here
+20-i000.aud	medic reporting
+20-i004.aud	yes sir
+20-i006.aud	awaiting orders
+20-i008.aud	affirmative
+20-i010.aud	acknowledged
+20-i012.aud	moving out
+20-i016.aud	stat
+20-i018.aud	clear
+20-i020.aud	give me some room
+21-i000.aud	hehehe
+21-i002.aud	over here
+21-i004.aud	shh
+21-i010.aud	yes
+21-i012.aud	excellent
+21-i016.aud	moving
+21-i022.aud	its yours
+22-i000.aud	input directive
+22-i002.aud	comlink open
+22-i006.aud	unit ready
+22-i008.aud	affirmative
+22-i010.aud	by your command
+22-i012.aud	target aquired
+22-i014.aud	scan initiated
+22-i016.aud	proceding
+22-i018.aud	unit engaged
+22-i020.aud	processing
+22-n100.aud	terminate all biological lifeforms
+22-n102.aud	the will of cabal must be enforced
+22-n104.aud	error
+22-n106.aud	system failure
+22-n108.aud	malfunction
+22-n110.aud	hit him
+22-n112.aud	intruder alert
+22-n114.aud	you are not one of us
+22-n116.aud	fire in the hole
+22-n118.aud	proceding to target
+22-n120.aud	sequence engaged
+23-i000.aud	your command
+23-i002.aud	standing by
+23-i004.aud	directive
+23-i006.aud	status
+23-i008.aud	i obay
+23-i010.aud	affirmative
+23-i012.aud	executing
+23-i014.aud	terminated
+23-i016.aud	stand clear
+23-i018.aud	they will know fear
+23-i020.aud	for the brotherhood
+23-i022.aud	i can smell their fear
+24-i000.aud	need a ride
+24-i002.aud	sir
+24-i004.aud	yeah
+24-i006.aud	what
+24-i008.aud	hot wired
+24-i010.aud	hit it
+24-i012.aud	four on the floor
+24-i014.aud	cool
+24-i016.aud	where do you want it
+24-i018.aud	going my way
+24-i020.aud	no keys, no problem
+24-i022.aud	jacking them up
+24-i024.aud	i always wanted one of these
+25-i000.aud	unit reporting
+25-i002.aud	unit ready
+25-i004.aud	awaiting orders
+25-i006.aud	sir
+25-i012.aud	yes sir
+25-i014.aud	yes sir
+25-i016.aud	orders recieved
+25-i018.aud	moving out
+25-i022.aud	on my way
+25-i024.aud	you got it
+25-i026.aud	no problem
+27-i002.aud	unit deploy response
+30-i000.aud	pilot reporting
+30-i002.aud	ready
+30-i004.aud	awaiting orders
+30-i006.aud	sir
+30-i014.aud	yes sir
+30-i016.aud	orders recieved
+30-i018.aud	over and out
+30-i022.aud	on my way
+30-i030.aud	death from above
+30-i034.aud	form up
+30-i036.aud	away we go
+32-i000.aud	affirmative
+32-i002.aud	target sighted
+32-i004.aud	orders recieved
+32-i006.aud	engaging
+32-i008.aud	woops
+33-n000.aud	where the hell are those reinforcements
+33-n002.aud	its nod sir, they came out of nowhere
+33-n004.aud	looks like they tore this place appart already
+33-n008.aud	here they come
+33-n010.aud	is there any tech left at the nod base
+33-n012.aud	these critters don't look too friendly
+33-n014.aud	the cavelry has arrived
+33-n020.aud	i believe there is an old gdi base near
+33-n022.aud	here comes kanes welcoming comittee
+33-n024.aud	whats the eta on that mcv
+35-n000.aud	get tratos over here, ASAP
+35-n002.aud	with all due respect, move your ass
+35-n004.aud	eta for airstrike is 5 minutes
+35-n008.aud	pickup service
+35-n010.aud	negative, i can make it
+35-n012.aud	i said, i can make it
+35-n014.aud	i can aaah
+36-n000.aud	that train goes to the power grid we told you about, get us on board
+36-n002.aud	thanks, well enjoy this
+36-n004.aud	somethings wrong, we should have been there by now
+36-n008.aud	we have been betrayed, gdi kidnapped tratos
+37-n000.aud	thanks for your help
+37-n002.aud	they may be on to us
+38-n000.aud	get back to the base
+38-n002.aud	tiberiam is lethal to unprotected infantry
+38-n004.aud	we need more men, train them from the hand of nod
+38-n006.aud	laser turrets, run for it
+38-n008.aud	the traitors are comming, blow the bridge
+38-n010.aud	hassan is escaping
+38-n012.aud	hassan has been captured
+38-n014.aud	we got an old stock pile here sir
+38-n016.aud	the mutants have turned on us
+38-n018.aud	there everywhere
+38-n020.aud	lets get him to the convoy point
+38-n022.aud	take point, soldier
+38-n024.aud	glad to see you free, sir
+38-n026.aud	being held in an outpost to the east
+38-n028.aud	the ice wont support the weight of multiple vechicles crossing
+38-n100.aud	something crashed near here, spread out & report
+38-n102.aud	sir weve found something, I think it is the tascitus
+38-n104.aud	well fall back to the old airfield & wait out the storm
+38-n106.aud	we have recovered a piece of cabals core
+38-n108.aud	i think we have been spotted
+38-n110.aud	gdi forces are nearby
+38-n112.aud	we have recovered another piece of the core
+38-n114.aud	third piece recovered, lets get out of here
+38-n116.aud	recon reports a heavy concentration of tiberium poisining
+38-n118.aud	we have to find that airfield or were finished
+38-n120.aud	message transmitted, montauk is en route
+38-n122.aud	this is the montauk, we are standing by for your evac
+38-n124.aud	we need to create a distraction to clear the gdi base of air support
+38-n126.aud	i bet if we attack these civillians, gdi will come to the rescue
+38-n128.aud	gdi planes are away from the base, now's our chance
+38-n130.aud	the core is undefended
+38-n132.aud	the core isn't here, we have been tricked
+38-n134.aud	looks like this was just a remotly operated substation
+38-n136.aud	reinforcements can be brought in if we repair the bridge
+38-n138.aud	gdi has requested that we help the civillians first
+38-n140.aud	once they're safe, we can concentrate on cabals harvesters
+38-n142.aud	gdi is sending us additional funding for aiding the civillians
+38-n144.aud	forget the civillians, there dead
+38-n146.aud	this should be easy enough
+38-n148.aud	lets get those harvesters
+38-n150.aud	gdi is uploading the final pieces of the code now, stand by
+38-n152.aud	fire storm coming down
+38-n154.aud	fire storm is offline
+38-n156.aud	code fragment retrieved
+39-n000.aud	i am free, now its paback time, hassan
+40-n000.aud	we have been touched by the spirit hand of kane
+41-n000.aud	stand and identify yourself in the name of kane
+41-n002.aud	sound the alarm
+41-n004.aud	base command, this is post tk421, we have got
+41-n006.aud	we just got word from general hassan, hes moving up north to cairo
+42-i000.aud	toxin soldier
+42-i002.aud	yes
+42-i004.aud	im all ears
+42-i006.aud	of course
+42-i008.aud	i think i can be pursuaded
+42-i010.aud	on it
+42-i012.aud	knockout
+42-i266.aud	-
+43-n000.aud	I have the codes
+44-n000.aud	we are here & waiting for your arrival
+47-n000.aud	dont shoot, i can tell you gdis evac locations
+52-n000.aud	welcome stranger
+52-n002.aud	can i offer you a cool beverage
+52-n004.aud	what do you think you are doing
+53-i000.aud	what
+53-i002.aud	ready to go
+53-i004.aud	shall we go
+53-i006.aud	yes
+53-i008.aud	on my way
+53-i010.aud	that seems logical
+53-i012.aud	oooh
+53-i102.aud	-
+53-i104.aud	-
+53-i106.aud	-
+53-i108.aud	on my way
+53-i110.aud	-
+53-i112.aud	-
+54-n000.aud	no tascitus piece in here
+54-n002.aud	nothing in this one either, you sure were in the right place
+54-n004.aud	got it, lets get out of here
+54-n006.aud	nothing in there
+54-n008.aud	the hieroglyphics on this temple read
+54-n010.aud	temple of time
+54-n012.aud	temple of thunder
+54-n014.aud	temple of the tascitus
+54-n016.aud	i got the tascitus
+54-n018.aud	the blue tiberium is highly explosive, maybe
+54-n020.aud	maybe we can blast a path through there
+54-n022.aud	understood
+54-n024.aud	going in
+54-n026.aud	yes sir
+54-n028.aud	moving out
+54-n030.aud	on my way
+55-n000.aud	help
+55-n002.aud	save us
+55-n004.aud	its coming right at us
+55-n006.aud	get us out, please
+55-n008.aud	its after us
+55-n010.aud	look out
+55-n012.aud	what is gdi doing. nothing
+55-n014.aud	why are we in this god forsaken place
+55-n016.aud	are we going to let those shiners take our food & water
+55-n018.aud	cant we all just get allong
+55-n020.aud	riot troops, run
+55-n022.aud	thanks for the warning, here is a reward for your help
+55-n024.aud	here commander, please take these 2 disruptors
+55-n026.aud	please take this mcv
+55-n028.aud	ill never turn
+55-n030.aud	piece through power
+55-n032.aud	for the technology of piece
+55-n034.aud	we got one
+55-n036.aud	fish is on the hook
+55-n038.aud	here creature creature
+55-n040.aud	we are under siege
+55-n042.aud	thanks for the help
+55-n044.aud	we can shut that fencing down for you
+56-n000.aud	lets show gdi were not going to take this
+56-n002.aud	kill the shiners
+56-n004.aud	down with gdi
+56-n006.aud	thanks for the warning, take these units
+56-n008.aud	take this for your troubles
+56-n010.aud	help us
+56-n012.aud	save us
+56-n014.aud	there comming
+56-n016.aud	get us out
+56-n018.aud	dont leave us
+56-n020.aud	wait
+57-n100.aud	you picked the wrong place to surface, nod scum
+57-n102.aud	gdi promised us piece & now tratos is dead
+57-n104.aud	gdi lied to us
+57-n106.aud	destroy them
+57-n108.aud	show them this is our land
+57-n110.aud	make them remember us
+57-n112.aud	they poisened our food & water
+57-n114.aud	they're trying to kill us
+57-n116.aud	take this harvester for your troubles
+57-n118.aud	release the hounds
+57-n120.aud	halt & prepare for vehicle inspection
+57-n122.aud	ok, looks good, head on in
+57-n124.aud	its bugged, destroy it now
+58-n100.aud	no civillian or mutant casualties
+58-n102.aud	the riot should end quickly, but stay vigilent
+58-n104.aud	copy that valdes, transport is dusting off now
+58-n106.aud	you get the juggernaut
+58-n108.aud	get your people to the evac point
+58-n110.aud	get your poeple to the transport
+58-n112.aud	valdez, we recommend you take out their leader
+58-n114.aud	protect doctor budro with your life, commander
+58-n116.aud	our base is under attack
+58-n118.aud	what in the world
+58-n120.aud	i should go warn the civillians in this area
+58-n122.aud	cabal is one sick bastard
+58-n124.aud	cabal is taking prisoners, this cant be good
+58-n126.aud	cabal is conscripting humans
+58-n128.aud	cabal intends to turn you all into cyborgs
+58-n130.aud	cabal is harvesting biological components
+58-n132.aud	you must evacuate the city immediatly
+58-n134.aud	civillians to arms, defend your town
+58-n136.aud	this must be their base
+58-n138.aud	what the
+58-n140.aud	i must warn the citicens of tronhime
+58-n142.aud	people of tronhime, get out now
+59-n100.aud	we can ill afford to loose more civillians to cabal
+59-n102.aud	get in there & protect those civillians
+59-n104.aud	well done commander, reinforcements en route
+60-n100.aud	system ready
+60-n102.aud	instructions
+60-n104.aud	awaiting navcom
+60-n106.aud	moving
+60-n108.aud	recieving course
+60-n110.aud	as ordered
+60-n112.aud	exterminate
+60-n114.aud	target locked
+60-n116.aud	weapons armed
+61-n000.aud	dare you defile sacred ground
+61-n002.aud	kill the mutant
+61-n004.aud	stop thief
+61-n006.aud	kill the heretics
+61-n008.aud	do not let them escape
+61-n010.aud	what, they killed the leader
+61-n012.aud	we join you in the hereafter
+62-n000.aud	welcome traveler
+62-n002.aud	join us
+62-n004.aud	join me
+62-n006.aud	existance is futile
+62-n008.aud	im coming to join you
+62-n010.aud	i am a messenger
+62-n012.aud	come to me
+64-i965.aud	-
+67-n100.aud	you talking to me
+67-n102.aud	can I help you
+67-n104.aud	whatever
+67-n106.aud	im going
+67-n108.aud	out of my way
+68-n100.aud	yeah
+68-n102.aud	huh
+68-n104.aud	what
+68-n106.aud	shur
+68-n108.aud	alright
+68-n110.aud	here I go
+69-n100.aud	not me
+69-n102.aud	oooh
+69-n104.aud	yeah
+69-n106.aud	do i gotta
+69-n108.aud	i gotta walk
+69-n110.aud	are you sure
+70-n000.aud	yes sir
+70-n002.aud	need assistance
+70-n004.aud	im your man
+70-n006.aud	be glad to
+70-n008.aud	on the job
+70-n010.aud	ok
+70-n012.aud	looks like overtime
+70-n014.aud	looks like overtime
+70-n016.aud	take that
+70-n018.aud	hope I'm covered
+71-n000.aud	open fire, open fire
+71-n100.aud	what, the civillians are shooting at us
+71-n102.aud	so are the shiners, retreat to the factory
+71-n104.aud	command station has been captured, defences offline
+71-n106.aud	we need reinforcements now
+71-n108.aud	what was that
+71-n110.aud	lets check that out
+71-n112.aud	did you hear something
+71-n114.aud	she ant going anywhere
+71-n116.aud	ill head back to base & get help
+71-n118.aud	shoot it
+71-n120.aud	lets get these civillians out of here now
+71-n122.aud	were under attack
+71-n124.aud	what the hell are those things
+71-n126.aud	where are those things comming from
+71-n128.aud	nod is uploading the final pieces of the code now, stand by
+71-n130.aud	code recieved, firestorm wall coming down
+71-n132.aud	firestorm is offline
+71-n134.aud	code fragment retrieved
+71-n136.aud	these laser posts are stronger than normal
+92-i269.aud	-
+99-n454.aud	you dare to attack me
+99-n456.aud	cybernetic intellegence will allways be superior
+99-n458.aud	by the way, missile launch detected
+99-n460.aud	cabal laugh
+99-n464.aud	activating defence protocol, defender, now
+99-n466.aud	miscalculation in enemy ability, compensation initiated
+approach.aud	approach
+bargraph.aud	-
+bestbox.aud	-
+bigggun1.aud	railgun
+bleep1.aud	generic beep
+boop.aud	stub sound used for all unsigned sound trigers
+cashturn.aud	sell sound
+chaingn1.aud	buggy fires gun/apache fires guns
+choice1.aud	menu choice
+clicky1.aud	generic click
+cloak5.aud	cloaking sound
+commup1.aud	communications center goes online
+corefir1.aud	core defender fire
+coreup1.aud	core defender up
+creddwn1.aud	credit negative
+credup1.aud	credit positive
+crmble2.aud	building crumbling
+cygun1.aud	cyborg fires gun
+dedgirl1.aud	dead girl 1
+dedgirl2.aud	dead girl 2
+dedgirl3.aud	dead girl 3
+dedgirl4.aud	dead girl 4
+dedman1.aud	dead man 1
+dedman2.aud	dead man 2
+dedman3.aud	dead man 3
+dedman4.aud	dead man 4
+dedman5.aud	dead man 5
+dedman6.aud	dead man 6
+defense.aud	defense
+dmachine.aud	-
+dropdwn1.aud	dropship lands
+dropup1.aud	dropship takes off
+dsaping1.aud	deployable sensor array ping
+duskhour.aud	dusk hour
+efficien.aud	-
+electro1.aud	electrocution
+elusive.aud	-
+emblem.aud	emblem
+expdirt1.aud	dirt explosion
+expnew01.aud	big building explosion with glass
+expnew02.aud	big building explosion with glass
+expnew03.aud	big building explosion with glass
+expnew04.aud	big building explosion with glass
+expnew05.aud	medium explosion for vehicle or structure
+expnew06.aud	medium explosion good for all & land destruction
+expnew07.aud	medium explosion with glass
+expnew08.aud	lg/md explosion with glass
+expnew09.aud	medium explosion general
+expnew10.aud	medium explosion general and vehicle
+expnew11.aud	medium explosion with glass
+expnew12.aud	small explosion general
+expnew13.aud	small explosion general
+expnew14.aud	small explosion general
+expnew15.aud	small explosion general
+expnew16.aud	explosion
+expnew17.aud	explosion
+expnew18.aud	explosion
+expnew19.aud	explosion
+facbld1.aud	factory goes online
+fiend1.aud	tiberium fiend
+fiend2.aud	tiberium fiend
+fireweb1.aud	web firing sound
+firstrm1.aud	firestorm defense burning
+flamtnk1.aud	flame tank fire
+floatk1.aud	tiberium floater attack
+floatmov.aud	tiberium floater move
+flotmov2.aud	tiberium floater move
+flotmov3.aud	tiberium floater move
+flotmov4.aud	tiberium floater move
+flurry.aud	flurry
+fsmap.aud	firestorm map screen
+fsmenu.aud	firestorm main menu
+gamefrm1.aud	game forming
+gatedwn1.aud	gate going down
+gateup1.aud	gate going up
+gdi-02.aud	-
+gdi-03a.aud	-
+gdi-03b.aud	-
+gdi-04.aud	-
+gdi-05a.aud	-
+gdi-05b.aud	-
+gdi-06a.aud	-
+gdi-06b.aud	-
+gdi-07.aud	-
+gdi-08.aud	-
+gdi-09a.aud	-
+gdi-09b.aud	-
+gdi-09c.aud	-
+gdi-09d.aud	-
+gdi-10a.aud	-
+gdi-10b.aud	-
+gdi-11.aud	-
+gdi-12.aud	-
+glnch4.aud	rpg launch
+gloom.aud	gloom
+gostgun1.aud	ghost talker
+gsweep.aud	-
+gun18.aud	civilian gun
+hacker.aud	-
+healer1.aud	healing units
+heroism.aud	heroism
+hovrmis1.aud	hovermlrs rocket fire
+hunter2.aud	hunter seeker droid
+icbm1.aud	big huge icbm rocket
+icecrak1.aud	ice crack
+icecrak2.aud	ice crack
+icecrak3.aud	ice crack
+infgun3.aud	infantry gun
+infiltra.aud	-
+infrared.aud	infrared
+intro.aud	-
+ion1.aud	ion cannon strike
+ionstorm.aud	ion storm ambient (no music track but ion storm sound)
+jugger1.aud	juggernaut firing sound
+jumpjet1.aud	jump jet fires gun
+klax1.aud	klaxon
+kmachine.aud	-
+lastur1.aud	laser turret
+limpbom1.aud	limpet drone attatch
+limpc3.aud	limpet drone move
+limpc4.aud	limpet drone move
+limpq3.aud	limpet drone move
+limpq4.aud	limpet drone move
+linkup.aud	-
+lonetrop.aud	lone troop
+madrap.aud	mad rap
+maps.aud	-
+message1.aud	incomming message
+meteor1.aud	large meteor
+meteor2.aud	small meteor
+methit1.aud	meteor hits ground
+misl1.aud	bike missile
+mobemp1.aud	mobile emp
+msg1.aud	message
+mutants.aud	mutants
+nod-02.aud	-
+nod-03a.aud	-
+nod-03b.aud	-
+nod-04a.aud	-
+nod-04b.aud	-
+nod-05.aud	-
+nod-06a.aud	-
+nod-06b.aud	-
+nod-06c.aud	-
+nod-07.aud	-
+nod-07.aud	-
+nod-08.aud	-
+nod-09a.aud	-
+nod-09b.aud	-
+nod-10.aud	-
+nod-11.aud	-
+nod-12a.aud	-
+nod-12b.aud	-
+nodcrush.aud	nod crush
+notify.aud	notification
+nsweep.aud	-
+obelcor3.aud	cabals obelisk firing
+obelmod1.aud	cabals obelisk firing
+obelpowr.aud	obelisk powering up
+obelray1.aud	obelisk firing laser
+orcadwn1.aud	orca lands
+orcamis1.aud	orca fighter attack
+orcaup1.aud	orca takes off
+pharotek.aud	pharotek
+place2.aud	place a building down
+plsecan2.aud	pulse cannon fires
+radardn1.aud	communication failure
+railuse5.aud	heavy mech railgun
+rainnite.aud	-
+redsky.aud	red sky
+repair11.aud	repair vehicle
+rketinf1.aud	rocket infantry fire
+samshot1.aud	sam site missile
+sandbag1.aud	sandbag being run over
+scold8.aud	cant push button sound
+score.aud	score screen
+scout.aud	scout
+scrin5b.aud	banshee fires
+silencer.aud	sniper gun
+slavesys.aud	-
+slvkgun1.aud	slavik gun
+sonic4.aud	sonic weapon fire
+spiddie1.aud	reaper death
+squish6.aud	guy squish
+squishy2.aud	guy squish
+ssplash1.aud	small water splash
+ssplash2.aud	small water splash
+ssplash3.aud	small water splash
+storm.aud	ion storm
+subdril1.aud	subterrian drill
+text1.aud	-
+text2.aud	-
+text3.aud	-
+timebomb.aud	time bomb
+tsgun4.aud	wolverene gun
+type.aud	-
+valves1b.aud	valves
+vicer1.aud	two viceroids combine
+whatlurk.aud	what lurks
+wipe.aud	-
+wrong1.aud	build queue full
